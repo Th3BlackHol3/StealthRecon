@@ -1,2 +1,2 @@
-# StealthRecon
-StealthRecon - Advanced Sensitive File Scanner
+# Stealth Recon - Advanced Sensitive File Scanner
+
